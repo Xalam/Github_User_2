@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="search">Cari pengguna ...</string>
+    <string name="html_url">URL</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="location">Lokasi</string>
+    <string name="detail">Detail Pengguna</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="number">0</string>
+    <string name="repository">Penyimpanan</string>
+    <string name="fullname">Nama</string>
+    <string name="company">Lokasi</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="network_error">Jaringan tidak tersedia</string>
+    <string name="user_not_found">Pengguna tidak ditemukan</string>
+</resources>
